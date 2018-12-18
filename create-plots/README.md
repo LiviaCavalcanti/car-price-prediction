@@ -1,4 +1,4 @@
-#Results represented graphically
+# Results represented graphically
 
 Directory created to graphically represent the results we obtained in the experiments of this project.
 
